@@ -6,6 +6,7 @@
 <body>
 <hr SiZe="7" color="blue">
 <font color=red size=24><center>Conservacion de especies Animal</font></center>
+<br>
 <hr SiZe="7" color="blue">
 <p align=justify>
 La destrucción y fragmentación del hábitat está conduciendo a un aumento de la consanguinidad que amenaza 
