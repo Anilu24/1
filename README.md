@@ -3,9 +3,9 @@
 <head>
 </head>
 <body>
-<hr Size="7" color="blue"></hr>
+<hr Size="7" color="blue">
 <font color=red size=24><center>Conservacion de especies Animal</center></font>
-<hr Size="7" color="blue"></hr>
+<hr Size="7" color="blue">
 <p align=justify>
 La destrucción y fragmentación del hábitat está conduciendo a un aumento de la consanguinidad que amenaza 
 la viabilidad, tanto de poblaciones naturales como de programas de cría en cautividad. 
